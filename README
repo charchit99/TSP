@@ -1,0 +1,13 @@
+To run PSO code, use the following command:
+python3 PSO.py
+
+To run Simulated Annealing, run the SimulatedAnnealing.ipynb notebook.
+
+To run Genetic Algorithm, run the Genetic.ipynb notebook.
+
+To run ACO code, use the following command:
+python3 ACO.py
+
+To run Greedy code, use the following command:
+python3 Greedy.py
+
